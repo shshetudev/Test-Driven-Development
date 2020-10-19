@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="932269cb-aeb5-4904-bd5a-6e3fa6dec23d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/Pragmatic-Unit-Testing-In-Java8-with-Junit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/src/main/java/chapter_1/ScoreCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/src/main/java/chapter_1/Scoreable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/src/main/java/chapter_2/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/src/main/java/chapter_2/Criteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/src/main/java/chapter_2/Criterion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/src/main/java/chapter_2/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/src/main/java/chapter_2/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prgmatic-Unit-Testing-In-Java8-with-Junit/src/test/java/chapter_1/ScoreCollectionTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j5Ml8dCHV4JCj4Sf10G9kPbQGh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Book_Test-Driven/Test-Driven" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="932269cb-aeb5-4904-bd5a-6e3fa6dec23d" name="Default Changelist" comment="" />
+      <created>1603089651260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603089651260</updated>
+      <workItem from="1603089653000" duration="180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="825" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603089830660">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="825" y="155" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1603089830660" />
+  </component>
+</project>
